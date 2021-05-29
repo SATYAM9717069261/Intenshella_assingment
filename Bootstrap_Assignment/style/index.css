@@ -67,3 +67,12 @@ a{
 	font-weight: bold;
 	text-align: center;
 }
+.login{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.loginbody{
+	margin:20px
+}
