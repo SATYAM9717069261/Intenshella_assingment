@@ -1,0 +1,43 @@
+
+.inner{
+    background-color: #898f9454;
+    margin: 25px;
+    border-radius:5px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.header-text{
+       	margin: 15px;
+	font-size: 65px;
+	padding-top: 80px;
+}
+.inner-text{
+	margin:15px;
+	font-size:20px;
+	padding-bottom: 40px;
+}
+
+hr{
+	margin:25px;
+}
+.card-btn{
+	width:100%;
+}
+
+.card-btn{
+	width:100%;
+}
+.card > img{
+	margin-top:10px;
+}
+.row > div {
+	margin:10px;
+}
+
+.inner-cart{
+	display:flex; 
+       	align-items:center;
+	justify-content:center;
+}
+
