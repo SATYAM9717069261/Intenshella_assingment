@@ -1,0 +1,11 @@
+Question : Please follow these steps to complete this exercise:
+
+	Use the E-Commerce database which we have already created.
+	Use the ALTER command to change the users table.
+	SET id as primary key
+	SET id as AUTO_INCREMENT
+
+Solution: 
+
+	1. ALTER TABLE `users` ADD PRIMARY KEY(`id`);
+	2. ALTER TABLE `users` CHANGE `id` `id` INT(11) NOT NULL AUTO_INCREMENT;
